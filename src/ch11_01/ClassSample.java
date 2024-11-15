@@ -14,6 +14,12 @@ public class ClassSample {
 		System.out.println(clazz.getSimpleName());  // BlackEagle 패키지를 제외한 이름만 출력
 		System.out.println(clazz.getPackageName());  // ch08_01
 		
+		System.out.println("====================");
+		
+		
+		String str="Korea Fighting!";
+		System.out.println(str.charAt(3));  // 특정한 인덱스에 해당하는 문자 1개 반환
+		
 		
 	}
 
