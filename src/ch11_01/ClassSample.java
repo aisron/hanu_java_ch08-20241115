@@ -17,7 +17,7 @@ public class ClassSample {
 		System.out.println("====================");
 		
 		
-		String str="Korea Fighting!";
+		String str="대한민국 파이팅!";
 		System.out.println(str.charAt(3));  // 특정한 인덱스에 해당하는 문자 1개 반환
 		
 		
