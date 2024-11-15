@@ -14,7 +14,7 @@ public class MainClass {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		}  
 		
 // 예외처리는 프로그램의 정지,종료를 막고 정상 실행을 유지하게 만드는 것이 목적	
 		
