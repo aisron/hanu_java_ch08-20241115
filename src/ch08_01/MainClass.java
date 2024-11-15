@@ -41,12 +41,17 @@ public class MainClass {
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
+		} finally {
+			System.out.println("예외처리 여부와 상관없이 무조건 실행하는 문장의 위치");
 		}
+		
+		
+		
+		
 		
 		System.out.println("예외처리 구간 통과");
 		System.out.println("프로그램 정상 종료");
 		
-	
 	
 	}
 
