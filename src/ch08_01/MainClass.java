@@ -53,6 +53,8 @@ public class MainClass {
 		System.out.println("프로그램 정상 종료");
 		
 	
+		
+		System.out.println(dog.toString()); // ch08_01.Pudel@244038d0 <- 푸들 클래스로 만든 객체의 메모리에 번지값 
 	}
 
 	
